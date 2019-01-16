@@ -14,6 +14,6 @@ yarn add -D @limdongjin/vuepress-plugin-sidebar-on-off
 
 ```js
 module.exports = {
-  plugins: ['@vuepress/pagination']
+  plugins: ['@limdongjin/vuepress-plugin-sidebar-on-off']
 }
 ```
