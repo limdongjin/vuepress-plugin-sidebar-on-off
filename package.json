@@ -1,0 +1,24 @@
+{
+  "name": "plugin-sidebar-on-off",
+  "version": "1.0.0",
+  "description": "sidebar-on-off plugin for vuepress",
+  "main": "index.js",
+  "author": "limdongjin <geniuslim27@gmail.com>",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limdongjin/plugin-sidebar-on-off.git"
+  },
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "sidebar"
+  ],
+  "bugs": {
+    "url": "https://github.com/limdongjin/plugin-sidebar-on-off/issues"
+  }
+}
