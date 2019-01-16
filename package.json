@@ -4,7 +4,10 @@
   "description": "sidebar-on-off plugin for vuepress",
   "main": "index.js",
   "author": "limdongjin <geniuslim27@gmail.com>",
-  "license": "ISC",
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  } ],
   "publishConfig": {
     "access": "public"
   },
