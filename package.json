@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-sidebar-on-off",
+  "name": "@limdongjin/vuepress-plugin-sidebar-on-off",
   "version": "1.0.0-alpha.30",
   "description": "sidebar-on-off plugin for vuepress",
   "main": "index.js",
