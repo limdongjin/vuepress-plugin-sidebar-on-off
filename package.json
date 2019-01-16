@@ -4,10 +4,7 @@
   "description": "sidebar-on-off plugin for vuepress",
   "main": "index.js",
   "author": "limdongjin <geniuslim27@gmail.com>",
-  "licenses": [ {
-    "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT"
-  } ],
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },

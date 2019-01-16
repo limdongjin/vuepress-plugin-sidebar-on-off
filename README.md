@@ -1,9 +1,19 @@
-# plugin-sidebar-on-off
+# @limdongjin/vuepress-plugin-sidebar-on-off
 
 plugin-sidebar-on-off for vuepress
 
+https://www.npmjs.com/package/@limdongjin/vuepress-plugin-sidebar-on-off
+
 ## Install
 
+```bash
+yarn add -D @limdongjin/vuepress-plugin-sidebar-on-off
 ```
-npm
+
+## Usage
+
+```js
+module.exports = {
+  plugins: ['@vuepress/pagination']
+}
 ```
